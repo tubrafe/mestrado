@@ -17,7 +17,7 @@ Antes de executar o jogo:
 3. Assine digitalmente o arquivo de termo de ciência que está dentro da pasta do experimento (dica: uma possibilidade é utilizar
    a assinatura dentro do gov.br).
 4. Certifique-se de ter respondido ao **questionário inicial**.
-   - O questionário é deste link:
+   - O questionário é deste link: https://forms.gle/qxNKgSquZM2ygvUv7
    - Responda apenas as 2 primeiras seções das 3 disponíveis no questionário (a terceira é para responder apenas ao fim do experimento), e então salve
      para voltar mais tarde.
 5. Feche, se possível, outros programas que possam atrapalhar sua experiência durante a sessão.
