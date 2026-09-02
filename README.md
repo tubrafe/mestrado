@@ -12,7 +12,7 @@ Para que os dados coletados representem da melhor maneira possível sua experiê
 
 Antes de executar o jogo:
 
-1. faça o download do arquivo zip do experimento como na zip na parte de releases do github, e então extraia ele localmente.
+1. faça o download do arquivo zip do experimento na parte de releases do github, e então extraia ele localmente.
 2. Não remova, renomeie ou altere os arquivos e pastas contidos junto ao jogo.
 3. Assine digitalmente o arquivo de termo de ciência que está dentro da pasta do experimento (dica: uma possibilidade é utilizar
    a assinatura dentro do gov.br)
