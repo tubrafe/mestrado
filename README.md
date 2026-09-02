@@ -12,10 +12,15 @@ Para que os dados coletados representem da melhor maneira possível sua experiê
 
 Antes de executar o jogo:
 
-1. Certifique-se de ter respondido ao **questionário inicial disponibilizado pelo pesquisador**.
-2. Extraia **todo o conteúdo do arquivo `.zip`** para uma pasta em seu computador.
-3. Não remova, renomeie ou altere os arquivos e pastas contidos junto ao jogo.
-4. Feche, se possível, outros programas que possam atrapalhar sua experiência durante a sessão.
+1. faça o download do arquivo zip do experimento como na zip na parte de releases do github, e então extraia ele localmente.
+2. Não remova, renomeie ou altere os arquivos e pastas contidos junto ao jogo.
+3. Assine digitalmente o arquivo de termo de ciência que está dentro da pasta do experimento (dica: uma possibilidade é utilizar
+   a assinatura dentro do gov.br)
+4. Certifique-se de ter respondido ao **questionário inicial**.
+   . O questionário é deste link:
+   . Responda apenas as 2 primeiras seções das 3 disponíveis no questionário (a terceira é para responder apenas ao fim do experimento), e então salve
+     para voltar mais tarde.
+5. Feche, se possível, outros programas que possam atrapalhar sua experiência durante a sessão.
 
 **Não é necessário instalar o jogo.**
 
@@ -23,7 +28,7 @@ Antes de executar o jogo:
 
 ## 2. Iniciando o jogo
 
-Dentro da pasta extraída, execute:
+Dentro da pasta extraída, entre na pasta release e então execute:
 
 `valyriatear.exe`
 
@@ -54,7 +59,10 @@ O objetivo é que sua maneira de jogar seja a mais natural possível.
 
 ### Tempo de jogo
 
-Jogue por aproximadamente **[INSERIR DURAÇÃO DO EXPERIMENTO]**.
+Tente terminar o jogo em torno de um dia, se precisar fazer pausas não haverá problema, apenas registre na seção 3 do questionário após finalizar o jogo.
+
+A duração total do jogo é de meia hora a cerca de duas horas, dependendo do seu estilo de jogo, então reserve um dia que você saberá que conseguirá ter esse tempo
+no total.
 
 Caso receba alguma orientação adicional do pesquisador sobre quando encerrar a sessão, siga essa orientação.
 
@@ -78,13 +86,11 @@ Quando terminar:
 2. aguarde alguns segundos antes de fechar ou mover a pasta;
 3. não abra nem modifique os arquivos de registro gerados pelo jogo;
 4. siga as instruções fornecidas pelo pesquisador para o envio dos dados;
-5. responda ao questionário final, caso tenha sido disponibilizado.
+5. responda ao questionário final, no caso a seção 3 do mesmo questionário citado anteriormente neste documento.
+  . Nesta seção terá o envio de 2 arquivos, um arquivo é o termo de ciência assinado anteriormente, e o outro será
+   um arquivo "log" gerado durante a sessão do jogo. Este arquivo se encontra na pasta do experimento no caminho
+   release/log, e é chamado de "". Apenas arraste e solte os arquivos nas respectivas perguntas do questionário.
 
-### Envio dos dados
-
-**[INSERIR AQUI AS INSTRUÇÕES PARA ENVIO DOS LOGS / FORMULÁRIO / ARQUIVOS]**
-
----
 
 ## 6. Problemas durante o jogo
 
@@ -125,11 +131,18 @@ Apenas jogue da maneira que considerar mais natural.
 
 ---
 
-## 8. Após o experimento
+## 8. Em caso de desistência
+
+Ao realizar o experimento você não é obrigado a finalizar o jogo se sentir que é difícil, frustrante ou entediante
+demais para você, apesar de aconselhar que tente finalizar sim o jogo. Porém, se não conseguir finalizar o jogo por
+esses motivos ou outra força maior, na seção 3 do questionário indique que não finalizou e o motivo nas seções respectivas
+a isso.
+
+---
+
+## 9. Após o experimento
 
 Depois que os procedimentos de envio solicitados pelo pesquisador forem concluídos, sua participação estará finalizada.
-
-**[INSERIR AQUI LINK PARA QUESTIONÁRIO PÓS-JOGO, CASO EXISTA]**
 
 ---
 
@@ -137,18 +150,11 @@ Depois que os procedimentos de envio solicitados pelo pesquisador forem concluí
 
 Em caso de dúvidas ou problemas técnicos:
 
-**Pesquisador:** [NOME DO PESQUISADOR]  
-**E-mail:** [E-MAIL]  
-**Instituição:** [INSTITUIÇÃO / PROGRAMA DE PÓS-GRADUAÇÃO]
+**Pesquisador:** Matheus Araujo Ferreira  
+**E-mail:** tubrafe@gmail.com 
+**Telefone:** (61) 98242-0628
+**Instituição:** Unb - PPGI (programa de pós graduação em informática)
 
 ---
-
-## Resumo rápido
-
-**Antes:** responda ao questionário inicial → extraia o `.zip` → execute `valyriatear.exe`.
-
-**Durante:** jogue normalmente e não modifique os arquivos.
-
-**Depois:** feche o jogo normalmente → preserve os arquivos gerados → siga as instruções para envio → responda ao questionário final, se solicitado.
 
 Obrigado pela participação e contribuição para esta pesquisa!
