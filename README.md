@@ -15,10 +15,10 @@ Antes de executar o jogo:
 1. faça o download do arquivo zip do experimento na parte de releases do github, e então extraia ele localmente.
 2. Não remova, renomeie ou altere os arquivos e pastas contidos junto ao jogo.
 3. Assine digitalmente o arquivo de termo de ciência que está dentro da pasta do experimento (dica: uma possibilidade é utilizar
-   a assinatura dentro do gov.br)
+   a assinatura dentro do gov.br).
 4. Certifique-se de ter respondido ao **questionário inicial**.
-   . O questionário é deste link:
-   . Responda apenas as 2 primeiras seções das 3 disponíveis no questionário (a terceira é para responder apenas ao fim do experimento), e então salve
+   - O questionário é deste link:
+   - Responda apenas as 2 primeiras seções das 3 disponíveis no questionário (a terceira é para responder apenas ao fim do experimento), e então salve
      para voltar mais tarde.
 5. Feche, se possível, outros programas que possam atrapalhar sua experiência durante a sessão.
 
@@ -87,7 +87,7 @@ Quando terminar:
 3. não abra nem modifique os arquivos de registro gerados pelo jogo;
 4. siga as instruções fornecidas pelo pesquisador para o envio dos dados;
 5. responda ao questionário final, no caso a seção 3 do mesmo questionário citado anteriormente neste documento.
-  . Nesta seção terá o envio de 2 arquivos, um arquivo é o termo de ciência assinado anteriormente, e o outro será
+   - Nesta seção terá o envio de 2 arquivos, um arquivo é o termo de ciência assinado anteriormente, e o outro será
    um arquivo "log" gerado durante a sessão do jogo. Este arquivo se encontra na pasta do experimento no caminho
    release/log, e é chamado de "". Apenas arraste e solte os arquivos nas respectivas perguntas do questionário.
 
