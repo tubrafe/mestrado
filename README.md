@@ -12,7 +12,7 @@ Para que os dados coletados representem da melhor maneira possível sua experiê
 
 Antes de executar o jogo:
 
-1. faça o download do arquivo zip do experimento na parte de releases do github, e então extraia ele localmente.
+1. faça o download do arquivo zip do experimento na parte ao clicar no botão code do github, e então extraia ele localmente.
 2. Não remova, renomeie ou altere os arquivos e pastas contidos junto ao jogo.
 3. Assine digitalmente o arquivo de termo de ciência que está dentro da pasta do experimento (dica: uma possibilidade é utilizar
    a assinatura dentro do gov.br).
@@ -89,7 +89,7 @@ Quando terminar:
 5. responda ao questionário final, no caso a seção 3 do mesmo questionário citado anteriormente neste documento.
    - Nesta seção terá o envio de 2 arquivos, um arquivo é o termo de ciência assinado anteriormente, e o outro será
    um arquivo "log" gerado durante a sessão do jogo. Este arquivo se encontra na pasta do experimento no caminho
-   release/log, e é chamado de "". Apenas arraste e solte os arquivos nas respectivas perguntas do questionário.
+   release/log, e é chamado de "log.csv". Apenas arraste e solte os arquivos nas respectivas perguntas do questionário.
 
 
 ## 6. Problemas durante o jogo
