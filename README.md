@@ -153,9 +153,12 @@ Depois que os procedimentos de envio solicitados pelo pesquisador forem concluí
 
 Em caso de dúvidas ou problemas técnicos:
 
-**Pesquisador:** Matheus Araujo Ferreira  
+**Pesquisador:** Matheus Araujo Ferreira 
+
 **E-mail:** tubrafe@gmail.com 
+
 **Telefone:** (61) 98242-0628
+
 **Instituição:** Unb - PPGI (programa de pós graduação em informática)
 
 ---
