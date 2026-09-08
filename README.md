@@ -6,6 +6,9 @@ Este estudo faz parte de uma pesquisa acadêmica de mestrado envolvendo o compor
 
 Para que os dados coletados representem da melhor maneira possível sua experiência, pedimos que leia atentamente as instruções abaixo **antes de iniciar o jogo**.
 
+**Obs:**: O jogo possui as instruções em português mas infelizmente a história e diálogos estão todos em inglês, dessa forma para o experimento é necessário ter 
+um conhecimento básico de inglês.
+
 ---
 
 ## 1. Antes de começar
