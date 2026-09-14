@@ -15,9 +15,9 @@ um conhecimento básico de inglês.
 
 Antes de executar o jogo:
 
-1. faça o download do arquivo zip do experimento na parte ao clicar no botão code do github, e então extraia ele localmente.
+1. faça o download do arquivo zip do experimento ao clicar no botão code do github (em verde no topo da página), e então extraia ele localmente.
 2. Não remova, renomeie ou altere os arquivos e pastas contidos junto ao jogo.
-3. Assine digitalmente o arquivo de termo de ciência que está dentro da pasta do experimento (dica: uma possibilidade é utilizar
+3. Assine digitalmente o arquivo de termo de ciência que está dentro da pasta do experimento, com nome de TCLE (dica: uma possibilidade é utilizar
    a assinatura dentro do gov.br).
 4. Certifique-se de ter respondido ao **questionário inicial**.
    - O questionário é deste link: https://forms.gle/qxNKgSquZM2ygvUv7
