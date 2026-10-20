@@ -6,24 +6,15 @@ Este estudo faz parte de uma pesquisa acadêmica de mestrado envolvendo o compor
 
 Para que os dados coletados representem da melhor maneira possível sua experiência, pedimos que leia atentamente as instruções abaixo **antes de iniciar o jogo**.
 
-**Obs:**: O jogo possui as instruções em português mas infelizmente a história e diálogos estão todos em inglês, dessa forma para o experimento é necessário ter 
-um conhecimento básico de inglês.
-
 ---
 
 ## 1. Antes de começar
 
 Antes de executar o jogo:
 
-1. faça o download do arquivo zip do experimento ao clicar no botão code do github (em verde no topo da página), e então extraia ele localmente.
+1. faça o download do arquivo zip do experimento neste link (https://drive.google.com/file/d/18PPLJsWYtcssfHC4deJncsbDUGDGjMZG/view?usp=sharing), e então extraia ele localmente.
 2. Não remova, renomeie ou altere os arquivos e pastas contidos junto ao jogo.
-3. Assine digitalmente o arquivo de termo de ciência que está dentro da pasta do experimento, com nome de TCLE (dica: uma possibilidade é utilizar
-   a assinatura dentro do gov.br).
-4. Certifique-se de ter respondido ao **questionário inicial**.
-   - O questionário é deste link: https://forms.gle/qxNKgSquZM2ygvUv7
-   - Responda apenas as 2 primeiras seções das 3 disponíveis no questionário (a terceira é para responder apenas ao fim do experimento), e então salve
-     para voltar mais tarde.
-5. Feche, se possível, outros programas que possam atrapalhar sua experiência durante a sessão.
+3. Feche, se possível, outros programas que possam atrapalhar sua experiência durante a sessão.
 
 **Não é necessário instalar o jogo.**
 
@@ -33,7 +24,7 @@ Antes de executar o jogo:
 
 Dentro da pasta extraída, entre na pasta release e então execute:
 
-`valyriatear.exe`
+`jogar.exe`
 
 O jogo deverá iniciar normalmente.
 
@@ -62,7 +53,7 @@ O objetivo é que sua maneira de jogar seja a mais natural possível.
 
 ### Tempo de jogo
 
-Tente terminar o jogo em torno de um dia, se precisar fazer pausas não haverá problema, apenas registre na seção 3 do questionário após finalizar o jogo.
+Tente terminar o jogo em torno de um dia, se precisar fazer pausas não haverá problema, apenas registre no questionário após finalizar o jogo.
 
 A duração total do jogo é de meia hora a cerca de duas horas, dependendo do seu estilo de jogo, então reserve um dia que você saberá que conseguirá ter esse tempo
 no total.
@@ -89,10 +80,8 @@ Quando terminar:
 2. aguarde alguns segundos antes de fechar ou mover a pasta;
 3. não abra nem modifique os arquivos de registro gerados pelo jogo;
 4. siga as instruções fornecidas pelo pesquisador para o envio dos dados;
-5. responda ao questionário final, no caso a seção 3 do mesmo questionário citado anteriormente neste documento.
-   - Nesta seção terá o envio de 2 arquivos, um arquivo é o termo de ciência assinado anteriormente, e o outro será
-   um arquivo "log" gerado durante a sessão do jogo. Este arquivo se encontra na pasta do experimento no caminho
-   release/log, e é chamado de "log.csv". Apenas arraste e solte os arquivos nas respectivas perguntas do questionário.
+5. acesse (https://forms.gle/y9MdXeRMZJ6X1vCD6), siga as instruções para a finalização do experimento (será pedido o envio de certos arquivos do jogo,
+   quantas vezes foram feitas pausas durante a sessão ou se houve desistência).
 
 
 ## 6. Problemas durante o jogo
@@ -138,7 +127,7 @@ Apenas jogue da maneira que considerar mais natural.
 
 Ao realizar o experimento você não é obrigado a finalizar o jogo se sentir que é difícil, frustrante ou entediante
 demais para você, apesar de aconselhar que tente finalizar sim o jogo. Porém, se não conseguir finalizar o jogo por
-esses motivos ou outra força maior, na seção 3 do questionário indique que não finalizou e o motivo nas seções respectivas
+esses motivos ou outra força maior, no questionário indique que não finalizou e o motivo nas seções respectivas
 a isso.
 
 ---
